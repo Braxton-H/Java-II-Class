@@ -1,0 +1,3 @@
+I did not use VSCODE because I have used Eclipse before in Java 1. I just decided it would be easier to use the IDE that I have already used before.
+It is easier for me to retain the information of how to use Eclipse from the last time I used it other than starting over on a new IDE.
+It has been over a year since I last used Eclipse though so I will probably still need to re-learn some things, but that will be easier than starting new.
