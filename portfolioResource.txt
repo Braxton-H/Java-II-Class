@@ -1,0 +1,6 @@
+I still do not have a full understanding of how the Github integration works so for now I am using the website cause it feels easier.
+My ultimate dream job is to eventually work on programming video games, or modeling for video games or both, I hope I can get used to git as
+it will be a very valuable resource in coding and making sure that the least amount of problems between saves occurs and that I can always
+go back and fix mistakes without ever having to loose all of the code on accident. I did try to get the integration to work on eclipse but 
+every time I tried to commit it would say there is no master, not allow me to write a commit message, and therefore not let me commit. So I
+decided it is easier to just drag the file into the website upload file.
